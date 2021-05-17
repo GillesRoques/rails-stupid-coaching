@@ -1,0 +1,30 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+body {
+
+    font-weight: 300;
+    background-color: blue;
+    color: black;
+}
+
+.formulaire {
+  background-color: orange;
+
+}
+
+h1 {
+  font-size: 42px;
+}
+
+
+ a {
+   color: grey;
+   &:hover {
+     color: black;
+   }
+   font-size: large;
+ }
+
